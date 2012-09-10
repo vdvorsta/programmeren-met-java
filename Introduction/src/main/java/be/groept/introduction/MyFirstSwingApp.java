@@ -11,7 +11,7 @@ import javax.swing.JOptionPane;
 import java.awt.event.ActionListener;
 import java.awt.event.ActionEvent;
 import java.io.IOException;
-
+// dit is commentaar
 public class MyFirstSwingApp {
 
 	private JFrame frame;
